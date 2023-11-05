@@ -3,6 +3,7 @@ Project untuk melengkapi syarat kelulusan kelas bisnis analitik PACMANN
 
 Business Analytics Project Pacmann - Analisa Kinerja Saham LQ45 Kuartal II 2023
 
+![alt text](https://github.com/tikumsatu/Project-Pacman---Analisa-Fundamental-LQ45/blob/main/data/Gambar%20saham%20LQ45.jpg)
 1. Latar Belakang dan Tujuan Analisa
 
 Sebuah perusahaan pengelola dana pensiun, ingin melakukan investasi di bursa saham Indonesia dengan berinvestasi di saham yang liquid, profitable dan memiliki fundamental yang baik. Manajer investasi Dapen memerintahkan stafnya untuk memilih 5 saham terbaik di index LQ45 untuk masing-masing kriteria metrics. Adapun kriteria yang dicari oleh staf investasi adalah sebagai berikut:
